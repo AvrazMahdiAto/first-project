@@ -3,3 +3,4 @@
 - git status
 - git log
 #aufgabe
+pull
